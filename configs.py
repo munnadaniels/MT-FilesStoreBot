@@ -30,28 +30,28 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @vanajakshi69
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @vanajakshi69
 
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Surprise:** [YouTube Video](https://youtu.be/GWNEMhIhMu8)
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @Movie360hub
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Movie360](https://t.me/joinchat/KxAoLQwjtFY2YjM1)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍ **Developer:** @AbirHasan2005
+🧑🏻‍ **Developer:** @Vanajakshi69
 
-💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
+💻 **Developer Details:** Owner Of @Movie360HUB
 
-👨‍💻 **Editing:** @Mrk_YT
+👨‍💻 **Editing:** @Vanajakshi69
 
-🗣️ **Any Doubt:** @Mo_Tech_Group
+🗣️ **Any Doubt:** @Movie360HUB
 
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
+📺 **Surprise :** [YouTube video](https://youtu.be/GWNEMhIhMu8)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Movie360](https://t.me/joinchat/KxAoLQwjtFY2YjM1)
 
 Donate Now (coming soon)
 """
