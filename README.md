@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/munnadaniels/MT-FilesStoreBot.git">
-    <img src="https://img.shields.io/github/stars/MoTechYT/MT-FilesStoreBot?style=social">
+    <img src="https://img.shields.io/github/stars/MoTechYT/vanajakshifilestore?style=social">
 
   </a>
   
@@ -23,7 +23,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MoTechYT/MT-FilesStoreBot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/munnadaniels/MT-FilesStoreBot/tree/patch-2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
