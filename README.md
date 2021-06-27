@@ -3,12 +3,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/MoTechYT/MT-FilesStoreBot/stargazers">
+  <a href="https://github.com/munnadaniels/MT-FilesStoreBot.git">
     <img src="https://img.shields.io/github/stars/MoTechYT/MT-FilesStoreBot?style=social">
 
   </a>
   
-  <a href="https://github.com/MoTechYT/MT-FilesStoreBot/fork">
+  <a href="https://github.com/munnadaniels/MT-FilesStoreBot.git">
     <img src="https://img.shields.io/github/forks/MoTechYT/MT-FilesStoreBot?label=Fork&style=social">
 
   </a>  
